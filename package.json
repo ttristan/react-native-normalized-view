@@ -1,6 +1,6 @@
 {
   "name": "react-native-normalized-view",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "normalized safe area view with keyboard avoiding view and status bar configuration",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
