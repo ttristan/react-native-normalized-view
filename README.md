@@ -18,6 +18,16 @@ npm install react-native-normalized-view
 import NormalizedView from "react-native-normalized-view";
 ```
 
+see `example/src/App.tsx`
+
+## Properties
+| Prop  | Default  | Type | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| backgroundColor | `#ffffff` | `string` | background color behind the safe area |
+| statusBarStyle | `light-content` | `'light-content' \| 'default' \| 'dark-content'` | see react-native `StatusBar` `barStyle` Prop |
+| keyboardBehavior | `padding` | `'padding' \| 'height' \| 'position'` | see react-native `KeyboardAvoidingView` `behavior` Prop |
+
+
 
 ## License
 
