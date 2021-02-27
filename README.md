@@ -2,6 +2,10 @@
 
 normalized safe area view with keyboard avoiding view and status bar configuration
 
+<p align="center">
+  <img src="./example/preview.png">
+</p>
+
 ## Installation
 
 ```sh

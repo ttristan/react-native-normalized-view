@@ -48,8 +48,6 @@ const styles = StyleSheet.create({
   },
   childrenView: {
     alignItems: 'stretch',
-    paddingTop: 16,
-    paddingBottom: 16,
     flex: 1,
   },
   keyboardAvoidingView: {
