@@ -16,6 +16,10 @@ npm install react-native-normalized-view
 
 ```js
 import NormalizedView from "react-native-normalized-view";
+
+<NormalizedView backgroundColor="#000000">
+  <Text>Safe area</Text>
+</NormalizedView>
 ```
 
 see `example/src/App.tsx`
